@@ -1,10 +1,6 @@
-
+# Timeline in pure Matplotlib
 
 ```python
-"""
-Thanks to:
-    - https://stackoverflow.com/questions/32619424/is-it-possible-to-plot-timelines-with-matplotlib/32626852
-"""
 import matplotlib.patches as mpatches
 import matplotlib.pyplot as plt
 import random
